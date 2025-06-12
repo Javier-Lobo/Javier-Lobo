@@ -37,6 +37,7 @@
 
 ## 🌱 Actualmente aprendiendo
 - 🎯 Pentesting
+- 🫠 React
 
 ## 📫 Cómo contactarme
 - 💼 LinkedIn: [Javier Lobo](https://www.linkedin.com/in/javilobo/)
